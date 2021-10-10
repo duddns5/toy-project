@@ -110,6 +110,7 @@ public class BoardController extends HttpServlet {
 	private void boardForm(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		// TODO Auto-generated method stub
+		System.out.println(request);
 		request.getRequestDispatcher("/board/board-form").forward(request, response);
 	}
 
