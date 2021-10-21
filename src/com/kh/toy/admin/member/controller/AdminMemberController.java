@@ -27,6 +27,7 @@ public class AdminMemberController extends HttpServlet {
         // TODO Auto-generated constructor stub
         System.out.println("라라라");
         System.out.println("마마마");
+        System.out.println("기기기");
     }
 
 	/**
