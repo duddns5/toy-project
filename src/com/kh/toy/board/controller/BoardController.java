@@ -36,6 +36,7 @@ public class BoardController extends HttpServlet {
 		// TODO Auto-generated constructor stub
 		System.out.println("fkfkfk");
 		System.out.println("qwer");
+		System.out.println("qqqq");
 	}
 
 	/**
