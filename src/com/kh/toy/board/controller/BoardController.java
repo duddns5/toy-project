@@ -38,6 +38,7 @@ public class BoardController extends HttpServlet {
 		System.out.println("qwer");
 		System.out.println("qqqq");
 		System.out.println("asdf");
+		System.out.println("qwer");
 	}
 
 	/**
