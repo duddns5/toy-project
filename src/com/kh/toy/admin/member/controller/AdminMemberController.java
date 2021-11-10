@@ -34,6 +34,7 @@ public class AdminMemberController extends HttpServlet {
         System.out.println("아아아");
         System.out.println("가가가");
         System.out.println("기기기");
+        System.out.println("dkdkdk");
     }
 
 	/**
